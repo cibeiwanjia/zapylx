@@ -1,4 +1,4 @@
-package zapylx
+package logger
 
 import (
 	"os"
