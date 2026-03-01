@@ -1,4 +1,4 @@
-package logger
+package zapylx
 
 import (
 	"go.uber.org/zap"
