@@ -26,7 +26,7 @@ go get github.com/cibeiwanjia/zapylx
 package main
 
 import (
-    "github.com/cibeiwanjia/zapylx/logger"
+    "github.com/cibeiwanjia/zapylx"
 )
 
 func main() {
@@ -48,7 +48,7 @@ func main() {
 package main
 
 import (
-    "github.com/cibeiwanjia/zapylx/logger"
+    "github.com/cibeiwanjia/zapylx"
 )
 
 func main() {
@@ -81,7 +81,7 @@ func main() {
 package main
 
 import (
-    "github.com/cibeiwanjia/zapylx/logger"
+    "github.com/cibeiwanjia/zapylx"
 )
 
 func main() {

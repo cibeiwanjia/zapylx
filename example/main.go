@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cibeiwanjia/zapylx/logger"
+	"github.com/cibeiwanjia/zapylx"
 	"go.uber.org/zap"
 	"time"
 )
